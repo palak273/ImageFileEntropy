@@ -7,3 +7,4 @@ Most common value estimates,
 Collision test estimates, 
 Markov test estimates, and
 Compression test estimates. 
+https://github.com/palak273/FileEntropy/blob/main/Images/graph.JPG
